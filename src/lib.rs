@@ -1,6 +1,6 @@
 use chrono::serde::ts_milliseconds_option;
 
-use chrono::{DateTime, Local, Duration, Utc};
+use chrono::{DateTime, Utc};
 use serde::{Serialize, Deserialize};
 
 #[derive(Serialize, Deserialize, Debug)]
