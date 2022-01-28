@@ -1,0 +1,2 @@
+- [ ] add debt
+- [ ] colored output
